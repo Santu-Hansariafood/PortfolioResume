@@ -39,7 +39,7 @@ individual growth, and delivering high-quality web solutions.`,
   ],
   email: "santude1997@gmail.com",
   phone: "9064527639",
-  website: "www.santude.com",
+  website: "https://portfolio-resume-five-zeta.vercel.app/",
   socialLinks: {
     github: "https://github.com/santude1997",
     linkedin: "https://www.linkedin.com/in/santu-de-812571158/",
